@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikhil-Srivatsav
+- 👋 Hi, I’m Nikhil-Srivastav
 - 👀 I’m interested in Software Development and Product Management.
 - 🌱 I’m currently learning Java and Intrested in Backened Development.
 - 💞️ I’m looking to collaborate on Interview Prep and Solving DSA.
